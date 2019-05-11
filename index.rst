@@ -133,7 +133,7 @@ Additional information, help
 
 **Fix or improve this documentation**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/JupyterLab-Circos/blob/master/index.rst>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/Circos_QuickStart>`_
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
@@ -142,7 +142,7 @@ Additional information, help
 `Learning Center Home`_
 
 .. |JupyterLabCircos logo| image:: ./img/vice_badge.png
-.. _JupyterLabCircos logo: https://de.cyverse.org/de/?type=apps&app-id=????????????&system-id=de
+.. _JupyterLabCircos logo: https://de.cyverse.org/de/?type=apps&app-id=4cc9f054-5343-11e9-8b4d-008cfa5ae621&system-id=de
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
